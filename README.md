@@ -1,2 +1,2 @@
 # nextcrud
-A crud application using Next Js and MongoDB
+A CRUD application using Next Js and MongoDB
